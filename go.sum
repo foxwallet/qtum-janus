@@ -428,7 +428,7 @@ github.com/qtumproject/btcd/btcutil v1.0.0-beta.qtum h1:pQ0WOoFdXZWYvnAGx5IDrFvz
 github.com/qtumproject/btcd/btcutil v1.0.0-beta.qtum/go.mod h1:xk51zvIve09CswpcIxHymgncH3/Q+0naRTuzF9BIRvI=
 github.com/qtumproject/btcd/chaincfg/chainhash v1.0.0-beta.qtum h1:Y75MMjrxAKBeymhMvf7MczNxu9Du1vJ7bqDeQ9zl2gQ=
 github.com/qtumproject/btcd/chaincfg/chainhash v1.0.0-beta.qtum/go.mod h1:muO0O8z1A1ZGOhCABHzyWMlNnb6XU2V3cnSJZZkEOCQ=
-github.com/qtumproject/ethereum-block-processor v0.0.1 h1:1nnZyZ2i71oyyqGj3t70goRSIEIax1a+6k48Wp6vA9c=
+github.com/qtumproject/ethereum-block-processor v0.0.1 h1:UPS3wyC0dkNj5lz1aZVRpnHiCnPEnu1CqUuO7fTDmhc=
 github.com/qtumproject/ethereum-block-processor v0.0.1/go.mod h1:CgZYNT+TOofyVjKVWXx1DR8xVtdf8AHqujSQgBedDvg=
 github.com/retailnext/hllpp v1.0.1-0.20180308014038-101a6d2f8b52/go.mod h1:RDpi1RftBQPUCDRw6SmxeaREsAaRKnOclghuzp/WRzc=
 github.com/rifflock/lfshook v0.0.0-20180920164130-b9218ef580f5 h1:mZHayPoR0lNmnHyvtYjDeq0zlVHn9K/ZXoy17ylucdo=
